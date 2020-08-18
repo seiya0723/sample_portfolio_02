@@ -108,7 +108,6 @@ a:hover{ text-decoration:none;}
 
 .content_name {
     color:white;
-    text-decoration:normal;
     transform:rotate(-90deg);
 }
 .side_menu_content:hover , .side_menu_content:active{
